@@ -29,7 +29,7 @@
             </router-link>
           </li>
           <li class="sub_selection_li navigation_li">
-            <router-link to="/about" class="sub_selection_a" ><!--“/about”暂定，需要修改-->
+            <router-link to="/login" class="sub_selection_a" ><!--“/about”暂定，需要修改-->
               蓝桥杯
             </router-link>
           </li>
