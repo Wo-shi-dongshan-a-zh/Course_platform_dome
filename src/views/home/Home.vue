@@ -12,7 +12,7 @@
         <div id="navigation_login">
           <ul id="sign_menu">
             <li class="navigation_li">
-              <a href="/home" id="tab_button">    <!--“/home”暂定，需要修改-->
+              <a href="/login" id="tab_button">    <!--“/home”暂定，需要修改-->
                 登录
               </a>
             </li>
@@ -34,7 +34,7 @@
             </router-link>
           </li>
           <li class="sub_selection_li navigation_li">
-            <router-link to="/about" class="sub_selection_a" ><!--“/about”暂定，需要修改-->
+            <router-link to="/login" class="sub_selection_a" ><!--“/about”暂定，需要修改-->
               关于我们
             </router-link>
           </li>
